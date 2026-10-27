@@ -171,7 +171,7 @@ graph TD
 
 We used **Uniform Cost Search (UCS)** to find the shortest route from Nairobi to Kisumu. UCS expands the path with the lowest total cost first.
 
-The path cost, `g(n)`, is calculated by adding the distances travelled from Nairobi to the current town. We choseit also because fo the familiriaty we have with the concept.
+The path cost, `g(n)`, is calculated by adding the distances travelled from Nairobi to the current town. We chose UCS also because fo the familiriaty we had with the concept.
 
 ### Step 1: Expand Nairobi
 
